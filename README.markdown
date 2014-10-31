@@ -3,6 +3,15 @@ JASidePanels
 
 JASidePanels is a UIViewController container designed for presenting a center panel with revealable side panels - one to the left and one to the right.  The main inspiration for this project is the menuing system in Path 2.0 and Facebook's iOS apps.
 
+This is the eXaring fork of the project with a couple of specific changes
+others don't need. Don't get distracted and go for the
+[original](https://github.com/gotosleep/JASidePanels) version.
+
+Installation using [CocoaPods](http://cocoapods.org/):
+``` bash
+pod 'JASidePanels', :git => https://github.com/exaring/JASidePanels.git
+```
+
 Demo
 ---
 ![iPhone Example](https://img.skitch.com/20120322-dx6k69577ra37wwgqgmsgksqpx.jpg)

@@ -43,4 +43,10 @@
     return nil;
 }
 
+- (void)becomesCenterPanel {
+}
+
+- (void)loosesCenterPanel {
+}
+
 @end
